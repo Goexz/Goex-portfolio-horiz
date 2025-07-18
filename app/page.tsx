@@ -592,7 +592,7 @@ export default function Portfolio() {
                   >
                     <img
                       src="https://img2.pic.in.th/pic/Picsart_25-07-03_22-09-54-948.jpg"
-                      alt="Alex - Full Stack Developer"
+                      alt="West - Full Stack Developer"
                       className="w-full h-full object-cover"
                     />
 
