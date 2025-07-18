@@ -591,7 +591,7 @@ export default function Portfolio() {
                     }}
                   >
                     <img
-                      src="/placeholder.svg?height=400&width=320"
+                      src="https://img2.pic.in.th/pic/Picsart_25-07-03_22-09-54-948.jpg"
                       alt="Alex - Full Stack Developer"
                       className="w-full h-full object-cover"
                     />
